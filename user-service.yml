@@ -1,4 +1,4 @@
 database:
   port: 3306
-  host: 892.23.22.500
+  host: 892.23.22.5002
   username: root
